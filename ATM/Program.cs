@@ -47,7 +47,7 @@ namespace ATM
             }
 
             List<CardHolder> cardHolders = new List<CardHolder>();
-            cardHolders.Add(new CardHolder("5647895236521457", "alex", "diviu", 50.350, 1235));
+            cardHolders.Add(new CardHolder("5647895236521457", "alex", "hamilton", 50.350, 1235));
             cardHolders.Add(new CardHolder("1425369685741236", "mik", "gomez", 132.250, 4563));
             cardHolders.Add(new CardHolder("7898456532124569", "alice", "john", 40.000, 9632));
             cardHolders.Add(new CardHolder("9871234567899875", "sara", "parker", 98.500, 1968));
